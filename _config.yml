@@ -2,7 +2,7 @@ title: mnml-jekyll-no-styling
 description: >-
   A minimal Jekyll config with Sass compilation setup for non-blog websites.
 
-baseurl: "/mnml-jekyll-no-styling" # repo name, leave blank for user/org pages.
+baseurl: "/mnml-jekyll-no-styling/" # repo name, leave blank for user/org pages.
 url: "https://ajitzero.github.io/mnml-jekyll-no-styling" # Full URL, always.
 
 permalink: /:title
